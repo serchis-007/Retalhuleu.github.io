@@ -1,0 +1,694 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+.animacion:hover{
+    transform: scale(1.2);
+    transition: all 0.10 ease 1s;
+    
+}
+.audio-section{
+    background-color: lightgray;
+    width: 300px;
+    height: 130px;
+    border-radius: 3px;
+    position: absolute;
+    left: 900px;
+    top: 250px;
+    box-shadow: 2px 4px 4px 2px;
+}
+
+.Bienvenidos{
+    text-align: center;
+    position: relative;
+    padding: 50px 20px;
+}
+body {
+    font-family: open-sans, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+    font: open sans;
+}
+
+.content {
+    padding: 20px;
+}
+
+.climalink:hover {
+    color:#ffffff;
+    transform: scale(1.2);
+    transition: all 0.10 ease 1s;
+}
+
+.colegio:hover{
+    transform: scale(1.2);
+    transition: all 0.10 ease 1s;
+}
+
+.climalink:link{
+    color:#003366;
+}
+
+.contacto{
+    padding-left: 50px;
+}
+
+.contacto:hover{
+    transform: scale(1.2);
+    transition: all 0.10 ease 1s;
+}
+/*apartado de "plan"*/
+.dia1-2{
+    display: block;
+    background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.7)),
+    url('https://i.ytimg.com/vi/qEthECBcR0A/maxresdefault.jpg');
+    width: 500px;
+    border-radius: 5px;
+}
+
+.dia3-4{
+    display: block;
+    background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.7)),
+    url('https://th.bing.com/th/id/R.bc9afd292019d094d6a24a2933e828ac?rik=1AbQT5Nz9Mnj9w&riu=http%3a%2f%2f4.bp.blogspot.com%2f-ohrUq5x5isE%2fTp7qINKQegI%2fAAAAAAAAAT8%2fQI55-CG7br0%2fs1600%2f7-IRTRA-Xocomil-Xetulul-Retalhuleu.jpg&ehk=VgUAiJUplVOQXycDTRCF3HcGTdpzvGRpKIJ8WAvRbOo%3d&risl=&pid=ImgRaw&r=0s');
+    width: 500px;
+    border-radius: 5px;
+}
+
+.dia5{
+    display: block;
+    background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.7)),
+    url('https://www.guatemala.com/fotos/2018/06/Xulik-885x500.jpg');
+    width: 500px;
+    border-radius: 5px;
+}
+
+.dia6{
+    display: block;
+    background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.7)),
+    url('https://th.bing.com/th/id/R.1f86cbe0d8e35dc2ae8c48690ac12000?rik=L8fgBGtB5JO2zA&riu=http%3a%2f%2fculturaguate.com%2fwp-content%2fuploads%2f2021%2f11%2fWhatsApp-Image-2021-10-27-at-5.25.34-PM-1.jpeg&ehk=eLew2OEpGbV482mMTfXex%2fkTp2GnPWStvXGoc1iyEjs%3d&risl=&pid=ImgRaw&r=0');
+    width: 500px;
+    border-radius: 5px;
+}
+
+.dia7{
+    display: block;
+    background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.7)),
+    url('https://www.honduras.com/wp-content/uploads/2021/03/finca-santa-elena-22.jpg');
+    width: 500px;
+    border-radius: 5px;
+}
+
+.dia8-9{
+    display: block;
+    background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.7)),
+    url('https://viajesdeunchapin.com/wp-content/uploads/2020/07/gira-esferas-dino-park.jpg');
+    width: 500px;
+    border-radius: 5px;
+}
+
+.dia10{
+    display: block;
+    background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.7)),
+    url('https://artelista.s3.amazonaws.com/obras/big/4/5/3/4164291233383581.jpg');
+    width: 500px;
+    border-radius: 5px;
+}
+
+.dia11{
+    display: block;
+    background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.7)),
+    url('https://th.bing.com/th/id/OIP.u-xjInzpG9eQOGsl4KwOZAHaEf?rs=1&pid=ImgDetMain');
+    width: 500px;
+    border-radius: 5px;
+}
+
+.dia12{
+    display: block;
+    background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.7)),
+    url('https://th.bing.com/th/id/OIP.hqu1-LNhYiasStfQe32VrAHaDt?rs=1&pid=ImgDetMain');
+    width: 500px;
+    border-radius: 5px;
+}
+
+.dia13{
+    display: block;
+    background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.7)),
+    url('https://th.bing.com/th/id/OIP.C_BfosG7Clq70uP-xMonAgHaEK?rs=1&pid=ImgDetMain');
+    width: 500px;
+    border-radius: 5px;
+}
+
+.dia14{
+    display: block;
+    background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.7)),
+    url('https://i.pinimg.com/originals/53/2b/6d/532b6d620c85fe457ed699228358010e.jpg');
+    width: 500px;
+    border-radius: 5px;
+}
+
+.dia1-2:hover{
+    transform: scale(1.05);
+    transition: transform 0.3s ease;
+}
+
+.dia3-4:hover{
+    transform: scale(1.05);
+    transition: transform 0.3s ease;
+}
+
+.dia5:hover{
+    transform: scale(1.05);
+    transition: transform 0.3s ease;
+}
+
+.dia6:hover{
+    transform: scale(1.05);
+    transition: transform 0.3s ease;
+}
+
+.dia7:hover{
+    transform: scale(1.05);
+    transition: transform 0.3s ease;
+}
+
+.dia8-9:hover{
+    transform: scale(1.05);
+    transition: transform 0.3s ease;
+}
+
+.dia10:hover{
+    transform: scale(1.05);
+    transition: transform 0.3s ease;
+}
+
+.dia11:hover{
+    transform: scale(1.05);
+    transition: transform 0.3s ease;
+}
+
+.dia12:hover{
+    transform: scale(1.05);
+    transition: transform 0.3s ease;
+}
+
+.dia13:hover{
+    transform: scale(1.05);
+    transition: transform 0.3s ease;
+}
+
+.dia14:hover{
+    transform: scale(1.05);
+    transition: transform 0.3s ease;
+}
+
+.index{/*este es el body de la pagina index "aplica una imagen*/
+    
+    background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.7)),
+    url('https://3.bp.blogspot.com/-Bdhfv07KFFc/Tv4FFo4tknI/AAAAAAAAV_s/5S6R9HVA3UI/s1600/RETALHULEU%252CPLAZA+CENTRAL.jpg');
+
+}
+.gastro-page{/*este es el body de la pagina index "aplica una imagen*/
+    
+    background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.7)),
+    url('https://img.freepik.com/premium-vector/abstract-watercolor-background_71674-1285.jpg');
+
+}
+
+
+.contenedor-ubicacion { /*xocomil*/
+    position: absolute;
+    gap: 20px;
+    left: 900px;
+    top: 400px;
+}
+
+.contenedor-ubicacion2 { /*champerico*/
+    position: absolute;
+    gap: 20px;
+    left: 900px;
+    top: 900px;
+}
+.contenedor-ubicacion3 { /*champerico*/
+    position: absolute;
+    gap: 20px;
+    left: 900px;
+    top: 1400px;
+}
+.ubicacion {/*xocomil*/
+    background-color: lightgray;
+    border-radius: 8px;
+    box-shadow: 2 8px 16px black;
+    overflow: hidden;
+    width: 300px;
+}
+
+
+.mapa{
+    width: 100%;
+    height: auto;
+}
+.contenido-ubicacion {
+    padding: 20px;
+}
+.titulo-ubicacion {
+    font-size: 1.5em;
+    margin: 0 0 10px;
+}
+.ubicacion-text {
+    font-size: 1em;
+    color: #555;
+}
+.card-button {
+    display: block;
+    width: 225px;
+    padding: 10px;
+    text-align: center;
+    background-color: #007BFF;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    margin-top: 20px;
+}
+/*fin apartado de la pagina "plan" para aplicar una imagen de fondo a las diferentes secciones*/
+.independencia{
+    background-color: rgb(0,191,255,0.7);
+    position: relative;
+    text-align: center;
+    border-radius: 5px;
+    width: 700px;
+    left: 300px;
+}
+
+footer{
+    background-color: #3f9b3f;
+    color:rgb(14, 13, 13);
+}
+
+.G-introduccion{
+    text-align: justify;
+}
+
+header {
+    background-color:#3f9b3f;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    position: relative;
+}
+
+
+
+
+.icons{/*iconos que estan en el footer*/
+    text-align: center;
+    position: relative;
+    
+}
+/*apartado de independencia*/
+.independencia-h1{
+    background-color: rgb(0,191,255,0.7);
+}
+
+.independencia-nav{
+    background-color: #0056b3;
+}
+
+.independencia-footer{
+    background-color: rgb(0,191,255,0.7);
+}
+
+.independencia-h2{
+    position: relative;
+    left: 550px;
+}
+.independencia-h2-2{
+    position: relative;
+    left: 450px;
+}
+
+.texto-independencia{
+    position: relative;
+    text-align: justify;
+    width: 700px;
+    left: 300px;
+}
+
+.independencia-img{
+    position: relative;
+    left: 200px;
+}
+.independencia-img-2{
+    position: relative;
+    left: 225px;
+}
+
+.bloque-independencia{
+    background-color: #E9E0D2;
+    border-radius: 10px;
+    background: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)),
+    url('https://a-z-animals.com/media/2022/11/flag-of-guatemala-2048x1366.jpg');
+        
+}
+
+.bloque-independencia:hover{
+    transform: scale(1.05);
+    transition: transform 0.3s ease;
+}
+
+.bloque-de-la-independencia2{
+    background-color: #E9E0D2;
+    border-radius: 10px;
+    background: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)),
+    url('https://aprende.guatemala.com/wp-content/uploads/2017/06/plaza-de-armas.jpg');
+    
+}
+
+.bloque-de-la-independencia2:hover{
+    transform: scale(1.05);
+    transition: transform 0.3s ease;
+    
+}
+
+.independencia-body{
+    background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.7)),
+    url('https://img.freepik.com/premium-vector/abstract-watercolor-background_71674-1285.jpg');
+}
+  /*fin de apartado de independenci*/  
+    
+
+.icon {
+    background-color: #0055a5;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    width: 100px;
+}
+
+
+.intro1{
+    text-align: center;
+}
+
+nav {
+    background-color:#317031;
+    overflow: hidden;
+    border-radius: 5px;
+
+}
+
+nav a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 60px;
+    text-decoration: none;
+    border-radius: 5px;
+
+}
+
+
+
+nav a:hover {
+    background-color: #003366;
+    color:aqua;
+}
+
+.noticias{
+    padding-left: 50px;
+}
+
+.noticias:hover{
+    transform: scale(1.2);
+    transition: all 0.10 ease 1s;
+}
+
+.platillo{
+    position: relative;
+    left: 540px;
+    border-radius: 3px;
+    box-shadow: 2px 5px 5px 2px;
+}
+
+.Sclima{
+    position: relative;
+    text-align: center;
+    background-color: lightgray;
+    height: 100px;
+    width: 400px;
+    left:450px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.ssclima{
+    background-color: gray;
+    text-align: center;
+    border-radius: 10px;
+}
+
+
+.panorama{
+    position: relative;
+    left: 900px;
+    bottom:240px;
+    box-shadow: 5px 15px 17px 5px;
+    border-radius: 3px;
+    cursor: pointer;
+    
+}
+.panorama:hover{
+    transform: scale(1.05);
+    transition: all 10.0 ease;
+}
+
+.texto2{
+    text-align: center; 
+}
+
+.texto1{
+    background-color: #3f9b3f;
+    border-radius: 10px;
+    box-shadow: 5px gray;
+    padding: 20px;
+    padding-bottom: 30px;
+    text-align: justify;
+    font-size: 16px;
+}
+
+.video1{
+    position: relative;
+    left: 400px;
+    border-radius: 5;
+    box-shadow: 5px;
+}
+/*apartado de gastronomia*/
+
+.card-container { /*tamañes*/
+    position: absolute;
+    gap: 20px;
+    left: 100px;
+    top: 700px;
+}
+.card-container2 {/*garnachas*/
+    position: relative;
+        gap: 20px;
+       top: 55px;
+        left: 950px;
+}
+.card-container3 { /*caldo de marizcos*/
+    position: relative;
+        gap: 20px;
+        left: 100px;
+        top: 120px;
+}
+.card-container4 {/*carne*/
+    position: absolute;
+    gap: 20px;
+    left: 950px;
+    top: 1199px;
+}
+.card-container5 {/*subanik*/
+    position: relative;
+    gap: 20px;
+    left: 520px;
+    
+}
+.card-container6 { /*tapado*/
+    position: absolute;
+    gap: 20px;
+    left: 520px;
+    top: 1120px;
+}
+.card-container7 {/*atol*/
+    position: absolute;
+    left: 520px;
+    top: 650px;
+    gap: 20px;
+  
+}
+
+.card-container:hover { /*tamañes*/
+    transform: scale(1.05);
+    transition: transform 0.3s ease;
+    box-shadow: 5px black;
+}
+.card-container2:hover {/*garnachas*/
+    transform: scale(1.05);
+    transition: transform 0.3s ease;
+}
+.card-container3:hover { /*caldo de marizcos*/
+    transform: scale(1.05);
+    transition: transform 0.3s ease;
+}
+.card-container4:hover {/*carne*/
+    transform: scale(1.05);
+    transition: transform 0.3s ease;
+}
+.card-container5:hover {/*subanik*/
+    transform: scale(1.05);
+    transition: transform 0.3s ease;
+}
+.card-container6:hover { /*tapado*/
+    transform: scale(1.05);
+    transition: transform 0.3s ease;
+}
+.card-container7:hover {/*atol*/
+    transform: scale(1.05);
+    transition: transform 0.3s ease;
+}
+
+.card {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 2 8px 16px black;
+    overflow: hidden;
+    width: 300px;
+}
+.card img {
+    width: 100%;
+    height: auto;
+}
+.card-content {
+    padding: 20px;
+}
+.card-title {
+    font-size: 1.5em;
+    margin: 0 0 10px;
+}
+.card-text {
+    font-size: 1em;
+    color: #555;
+}
+.card-button {
+    display: block;
+    width: 225px;
+    padding: 10px;
+    text-align: center;
+    background-color: #007BFF;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    margin-top: 20px;
+}
+.card-button:hover {
+    background-color: #0056b3;
+}
+/*fin de apartado gastronomia*/
+/*INICIO DE APARTADO DE CULTURA*/
+.cultura-h2{
+    position: relative;
+    left: 150px;
+}
+.contenedor-introduccion-cultura{
+    background-color:#3f9b3f;
+    border-radius: 10px;
+    width: 490px;
+    position: relative;
+    left: 450px;
+    
+
+}
+
+.contenedor-texto-cultura{
+    position: relative;
+    left: 30px;
+
+}
+
+.texto1-cultura{
+    width: 480px;
+    position: relative;
+    text-align: center;
+}
+
+.img-cultura2{
+    border-radius: 5px;
+    box-shadow: 5px 8px 5px 3px gray;
+  
+}
+
+.img-cultura{
+    border-radius: 5px;
+    box-shadow: 5px 8px 5px 3px gray;
+    padding-left: 30px;
+}
+
+.texto2-tradiciones{
+    padding-left: 30px;
+    width: 500px;
+}
+
+.imagen-tradicion{
+    position: absolute;
+    left: 550px;
+    top: 300px;
+    border-radius: 5px;
+
+}
+
+.imagen-tradicion1{
+    position: absolute;
+    left: 550px;
+    top: 300px;
+    border-radius: 5px;
+
+}
+.imagen-tradicion2{
+    position: absolute;
+    left: 900px;
+    top: 300px;
+    border-radius: 5px;
+
+}
+.imagen-tradicion3{
+    position: absolute;
+    left: 550px;
+    top: 510px;
+    border-radius: 5px;
+}
+.imagen-tradicion4{
+    position: absolute;
+    left: 900px;
+    border-radius: 5px;
+    top: 510px;
+}
+
+
+.texto2-cultura{
+    width: 800px;
+    position: relative;
+    left: 300px;
+    text-align: center;
+}
+/*apartado de */
+
+.video2{
+    border-radius: 5px;
+    position: absolute;
+    left: 650px;
+    top: 640px;
+    border: 2px solid gray ;
+    box-shadow: 5px  #555;
+    
+}
